@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Gateway
+Comment=
+Exec=java -jar /home/dimo/Documents/GitHub/IoTNetwork-Assigment_1/Applications/Gateway.jar
+Icon=/home/dimo/Documents/GitHub/IoTNetwork-Assigment_1/Applications/gatewayicon.ico
+Terminal=false
+Type=Application
+StartupNotify=true

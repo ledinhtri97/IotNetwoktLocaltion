@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Application Analysis
+Comment=
+Exec=java -jar /home/dimo/Documents/GitHub/IoTNetwork-Assigment_1/Applications/ApplicationAnalysis.jar
+Icon=/home/dimo/Documents/GitHub/IoTNetwork-Assigment_1/Applications/analysis.ico
+Terminal=false
+Type=Application
+StartupNotify=true
